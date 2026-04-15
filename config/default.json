@@ -1,0 +1,9 @@
+{
+  "data_path": "DailyDelhiClimateTrain.csv",
+  "output_dir": "outputs",
+  "test_ratio": 0.2,
+  "random_state": 42,
+  "n_estimators": 500,
+  "model": "auto",
+  "save_plots": true
+}
